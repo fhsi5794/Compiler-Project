@@ -1,8 +1,7 @@
 # Compiler Project
 ---
 ## Description
-2018 Summer Compiler Design assigment.
+2019 Compiler assigment.
 
-Compilier for Rust_.
 * project1
     * Scanner done.
