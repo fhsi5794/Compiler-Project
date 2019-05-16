@@ -8,7 +8,7 @@
 ## Excute
 ``` bash
 $ make
-$ p1.out < <testfile>
+$ ./p1.out < <testfile>
 ```
 
 ## Clean excess file
